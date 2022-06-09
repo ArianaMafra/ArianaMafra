@@ -3,7 +3,7 @@
 - 🔭 Atualmente estou trabalhando como professora de JavaScript, ReactNative, HTML, CSS ...
 - 🌱 Estudando um monte de coisas (amo estudar)
 - 📫 e-mail: mafra.ariana@gmail.com
-- ⚡ Fato interessante: sou engenheira de Controle e Automação e na graduação não gostava de programação.
+
 
 <div align="center">
   <a href="https://github.com/arianamafra">
