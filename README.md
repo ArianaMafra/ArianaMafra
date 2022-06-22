@@ -1,7 +1,7 @@
 ### Olá, eu sou Ariana Mafra 👋
 
 - 🔭 Atualmente estou trabalhando como professora de JavaScript, ReactNative, HTML, CSS ...
-- 🌱 Estudando um monte de coisas (amo estudar)
+- 🌱 Estudando linguagens de programação e inglês
 - 📫 e-mail: mafra.ariana@gmail.com
 
 
