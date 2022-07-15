@@ -1,7 +1,9 @@
 ### Olá, eu sou Ariana Mafra 👋
-
+<center>
 - 🔭 Atualmente estou trabalhando como professora de JavaScript, ReactNative, HTML, CSS ...
+
 - 🌱 Estudando linguagens de programação e inglês
+
 - 📫 e-mail: mafra.ariana@gmail.com
 
 
@@ -31,5 +33,5 @@
   
  
 </div>
-
+</center>
 
